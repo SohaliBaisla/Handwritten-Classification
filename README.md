@@ -9,17 +9,3 @@ The model have been trained on MNIST dataset of 42000 values. The images of hand
 <li> Matplotlib
 <li> PIL
 <li> Scikit-learn
-  
-  
-  
-### Handwritten Text Classification
-The project aims to design expert system for Handwritten Character Recognition (in English) using Neural Network, that can effectively recognize a particular character of type format using the Artificial Neural Network approach. Neural computing Is comparatively new field, and design components are therefore less well specified than those of other architectures. The model have been trained on IAM dataset containing 4910 values.
-  
-##### Python Libraries Used: 
-<li> Numpy
-<li> Pandas
-<li> Matplotlib
-<li> String
-<li> Scikit-learn
-<li> Tensorflow
-<li> Keras
